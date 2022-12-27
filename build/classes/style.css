@@ -1,0 +1,24 @@
+.root{
+    -fx-background-image: url("images//background.jpg");
+    -fx-background-size: cover;
+    z-index: -5;
+}
+.btn1{
+    -fx-background-color: transparent;
+    
+    -fx-cursor: hand;
+    
+}
+.chart-pie-label-line {
+    -fx-stroke: white;
+    -fx-fill: white;
+}
+
+.chart-pie-label {
+    -fx-fill: white;
+    -fx-font-size: 1em;
+}
+.chart-legend {
+   -fx-background-color: white;
+   -fx-stroke: black;
+}
